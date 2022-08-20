@@ -37,6 +37,10 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 8) Demonstrate the ASL alphabet or number hand gesture
 9) Press **"q"** button on your keyboard to close the video feed and click **Stop** button on the GUI to stop the process
 
+# ASL Reference
+## ASL Alphabets
+Packages/ASL ALPHABETS.jpg
+
 # Limitations
 1) 1 hand detection and interpretation at a time
 2) Detection distance up to 3 meters and interpretation distance up to 1.5 meters
