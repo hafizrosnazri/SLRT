@@ -39,7 +39,7 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 
 # ASL Reference
 ## ASL Alphabets
-Packages/ASL ALPHABETS.jpg
+![Alt text](Packages/ASL ALPHABETS.jpg?raw=true "Title")
 
 # Limitations
 1) 1 hand detection and interpretation at a time
