@@ -27,5 +27,12 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
    - Linux (If you are going to run the algorithms in Linux environment, make sure that you need to convert the algorithm files from **MS-DOS** to **Unix**)
 
 # How to Run?
-1) Download https://github.com/hafizrosnazri/SLRT/tree/master/Packages and save it in your local machine
-2) 
+1) Download all of the packages https://github.com/hafizrosnazri/SLRT/tree/master/Packages and save it in your local machine
+2) Before running the algorithm, make sure that all of the required Python packages have been isntalled
+3) Open **sign_language_real_time_communicator.py** and execute the algorithm
+4) Wait for the algorithm to be processed
+5) A GUI to select interpretation will popped up
+6) Choose either **Alphabet Interpretation** or **Number Interpretation**
+7) A live video feed will popped up
+8) Demonstrate the ASL alphabet or number hand gesture
+9) Press **"q"** button on your keyboard to close the video feed and click **Stop** button on the GUI to stop the process
