@@ -7,5 +7,6 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 ## Hardware
 1) Computer / Laptop
 2) Camera / USB Camera
+3) Monitor
 ## Software
 1) Pyhon IDE
