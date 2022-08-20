@@ -13,3 +13,12 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
    - PyCharm
    - Thonny Python
    - MS Visul Studio
+   - etc
+2) Python Packages
+   - TKinter
+   - Pillow
+   - OpenCV (cv2)
+   - Tensorflow Keras
+   - NumPy
+   - Pandas
+   - Mediapipe
