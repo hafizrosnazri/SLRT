@@ -41,3 +41,6 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 1) 1 hand detection and interpretation at a time
 2) Detection distance up to 3 meters and interpretation distance up to 1.5 meters
 3) Lighting, camera resolution, processing power, and hand features may affect the results
+
+# Contributors
+Muhammad Hafizuddin Rosnazri, Anis Nabilah Shahrul Yazid, Intel Malaysia Makers Club
