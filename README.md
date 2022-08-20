@@ -24,4 +24,6 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
    - Mediapipe
 3) Environment (OS)
    - Windows
-   - Linux (If you are going to run the algorithms in Linux environment, make sure that you need to convert the algorithm files from **MS-DOS** to **Unix**
+   - Linux (If you are going to run the algorithms in Linux environment, make sure that you need to convert the algorithm files from **MS-DOS** to **Unix**)
+
+# How to Run?
