@@ -9,7 +9,7 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 2) Camera / USB Camera
 3) Monitor
 ## Software
-1) Pyhon IDE
+1) Python IDE
    - PyCharm
    - Thonny Python
    - MS Visul Studio
@@ -22,3 +22,6 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
    - NumPy
    - Pandas
    - Mediapipe
+3) Environment (OS)
+   - Windows
+   - Linux (If you are going to run the algorithms in Linux environment, make sure that you need to convert the algorithm files from **MS-DOS to **Unix
