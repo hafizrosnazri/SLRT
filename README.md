@@ -39,7 +39,7 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 
 # ASL Reference
 ## ASL Alphabets
-<p align="center">
+<p align="left">
   <img src="Packages/ASL ALPHABETS.jpg" width="350" title="hover text">
 </p>
 
