@@ -10,3 +10,6 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 3) Monitor
 ## Software
 1) Pyhon IDE
+   - PyCharm
+   - Thonny Python
+   - MS Visul Studio
