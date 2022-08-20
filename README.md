@@ -27,3 +27,5 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
    - Linux (If you are going to run the algorithms in Linux environment, make sure that you need to convert the algorithm files from **MS-DOS** to **Unix**)
 
 # How to Run?
+1) Download https://github.com/hafizrosnazri/SLRT/tree/master/Packages and save it in your local machine
+2) 
