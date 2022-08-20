@@ -42,7 +42,7 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 <p align="left">
   <img src="Packages/ASL ALPHABETS.jpg" width="350" title="hover text">
 </p>
-## ASL Numbers
+##ASL Numbers
 <p align="left">
   <img src="Packages/ASL NUMBERS.png" width="350" title="hover text">
 </p>
