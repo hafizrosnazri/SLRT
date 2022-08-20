@@ -42,7 +42,10 @@ Real-time Vision-based Sign Language to Text Interpreter by Using Artificial Int
 <p align="left">
   <img src="Packages/ASL ALPHABETS.jpg" width="350" title="hover text">
 </p>
-
+## ASL Numbers
+<p align="left">
+  <img src="Packages/ASL NUMBERS.png" width="350" title="hover text">
+</p>
 
 # Limitations
 1) 1 hand detection and interpretation at a time
